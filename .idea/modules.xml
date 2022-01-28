@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataStructure/Array/Array.iml" filepath="$PROJECT_DIR$/DataStructure/Array/Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructure/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/DataStructure/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructure/Queue/Queue.iml" filepath="$PROJECT_DIR$/DataStructure/Queue/Queue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataStructure/Stack/Stack.iml" filepath="$PROJECT_DIR$/DataStructure/Stack/Stack.iml" />
+    </modules>
+  </component>
+</project>
